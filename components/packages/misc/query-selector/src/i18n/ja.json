@@ -1,8 +1,0 @@
-{
-  "help": "Select a query from one of the 2 lists. If any, enter the filter value(s)",
-  "defaultQueriesTitle": "'Find By' queries on an attribute",
-  "additionalQueriesTitle": "Additional queries",
-  "filterTitlePrefix": "Filter the query of",
-  "tip1": "If you dragged and dropped a Business Object, you can now use the generated user interface, or adapt it to your needs. If you created a new variable, you can create your own user interface using this variable.",
-  "tip2": "The return type of the generated Business Data variable is an array."
-}
